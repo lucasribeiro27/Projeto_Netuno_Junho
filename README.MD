@@ -1,4 +1,4 @@
-# Cadastro e Login - Repositório
+# Netuno RPG
 
 Este repositório contém um sistema simples de cadastro e login, integrado a uma aplicação de jogo fictícia, desenvolvido para o Projeto Netuno.
 
