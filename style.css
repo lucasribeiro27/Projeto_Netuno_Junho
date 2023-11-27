@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  min-height: 100vh;
+}
+
+form{
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+#info{
+ display: none;
+ align-items: flex-start;
+ flex-direction: column;
+}
