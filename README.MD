@@ -13,7 +13,7 @@ Este repositório contém um sistema simples de cadastro e login, integrado a um
 ### Cadastro
 
 - O usuário pode se cadastrar fornecendo informações como nome, data de nascimento, e-mail, senha e confirmação de senha.
-- 
+- Só poderá ser feito o cadastro se o usuario for maior de 18 (dezoito) anos e se as duas senhas forem identicas.
 - Verificação se o usuário já possui cadastro, exibindo um alerta para recuperar a senha.
 
 ### Login

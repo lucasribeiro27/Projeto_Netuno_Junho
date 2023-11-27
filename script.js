@@ -76,7 +76,7 @@ function exibirJogo() {
 }
 
 let pontosClasse = {};
-let pontosMontaria = {};
+var pontosMontaria = {};
 
 function mostrarInformacoes() {
     document.getElementById("avatarInfo").style.display = "none";
@@ -187,12 +187,10 @@ function distribuirPontosClasse() {
 function distribuirPontosMontaria() {
 const montariaSelecionada = document.getElementById("escolhaMontaria").value;
 
-let pontosMontaria = {};
-
-const pontosPadrao = {
-Velocidade: 5,
-TempoDescanso: 10,
-};
+    const pontosPadrao = {
+    Velocidade: 5,
+    TempoDescanso: 10,
+    };
 
 switch (montariaSelecionada) {
 case "Panda":
