@@ -20,6 +20,8 @@ Este repositório contém um sistema simples de cadastro e login, integrado a um
 
 - Após o cadastro, o usuário pode acessar a tela de login.
 - O login requer o fornecimento de e-mail e senha.
+- Também é testado se as senhas estão corretas.
+- E recupenado as senhas caso não esteja corretas.
 
 ### Jogo
 
